@@ -1,0 +1,22 @@
+
+
+img
+{
+    width: 120px;
+    height: 40px;
+}
+
+ul
+{
+    display: inline-block;
+}
+
+.btn a
+{
+    color: #fff;
+}
+
+a{
+    color: #111;
+    font-weight: 600;
+}

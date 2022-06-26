@@ -1,0 +1,189 @@
+#header
+{
+    padding-bottom: 30px ;
+    background: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png) ;
+    background-size: cover;
+} 
+
+
+#navbar 
+{
+    flex-flow: wrap;
+    padding: 0 20px;
+    /* background-color: black; */
+    /* padding: 20px; */
+    /* padding: 0 20px; */
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#navbar a
+{
+    text-decoration: none;
+    font-weight: 400;
+    color: #fff;
+}
+
+.lnav
+{
+    padding: 20px;
+}
+.rnav
+{
+    padding: 20px;
+}
+
+.rnav a
+{
+    padding-right: 20px;
+}
+
+
+#heading ,h1
+{
+    font-style: italic;
+    font-weight: 300;
+    padding-top: 20px;
+    font-family: cursive;
+    text-align: center;
+    font-size: 60px;
+    color: #fff;
+}
+
+#heading ,p
+{
+    padding-top: 0;
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+#search input
+{
+    font-size: 20px;
+    padding: 10px 0;
+    text-align: center;
+    width: 50%;
+}
+
+
+#search 
+{
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+
+#dish img
+{
+    /* height: 100%; */
+    width: 100%;
+    border-radius: 10px;
+}
+
+#dish
+{
+    margin-top: 10px;
+}
+
+
+#dish h3
+{
+    text-align: center;
+}
+
+#dish img:hover
+{
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+#collection-link ,a
+{
+
+font-size: 20px;
+
+
+    color: red;
+}
+
+#collection-lin
+{
+    padding: 0;
+    margin: 0;
+}
+
+#localities a
+{
+    text-decoration: none;
+    color: rgba(33, 32, 32, 0.76);
+}
+
+#zomato .container
+{
+    padding-left:  200px;
+    /* padding-right:  200px; */
+}
+
+#zomato
+{
+    margin-top: 40px;
+}
+
+
+#zomato img
+{
+    /* padding-top: 100px; */
+    width: 400px;
+    height: 200px;
+}
+
+#heading2 h1
+{
+    color: black;
+    font-size: 50px;
+}
+
+#paragraph2 p
+{
+    font-size: 20px;
+    color: rgba(17, 17, 34, 0.655);
+}
+
+#cities a
+{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.79);
+}
+
+
+#whole h1
+{
+    font-style: normal;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgba(17, 17, 34, 0.918);
+}
+
+#flex2 img
+{
+    width: 100%;
+}
+
+
+#cities .container
+{
+    background-color: rgba(169, 169, 169, 0.326);
+}
+
+#footer 
+{
+    font-weight: 600;
+    color: #fff;
+}
